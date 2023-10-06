@@ -1,6 +1,8 @@
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import MetaData
 
+test = "hi"
+
 # contains definitions of tables and associated schema constructs
 metadata = MetaData()
 
